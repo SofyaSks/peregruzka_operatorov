@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "peregruzka_operatorov", "peregruzka_operatorov.csproj", "{1DDCAB34-C236-453C-A5D9-391B5DFA56B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DDCAB34-C236-453C-A5D9-391B5DFA56B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DDCAB34-C236-453C-A5D9-391B5DFA56B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DDCAB34-C236-453C-A5D9-391B5DFA56B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DDCAB34-C236-453C-A5D9-391B5DFA56B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5365A8F-BEE0-449E-ACB8-D362CC191C62}
+	EndGlobalSection
+EndGlobal
